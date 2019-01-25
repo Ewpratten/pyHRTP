@@ -1,0 +1,15 @@
+< Hello
+< Over
+> Who?
+> Over
+< Name: Example Client
+< Over
+> Id: 0001
+> Ready
+> Over
+< Get: Help
+< Over
+> (Help message)
+> Over
+< End
+> Goodbye
